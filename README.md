@@ -1,5 +1,5 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/Kriashnagupta2)
-<meta name="google-site-verification" content="rRiAGMAf_TWDPnnhoxsEbyxq6ndmDGQdZmDRm1nlYRA" />
+
 
 <div align="center"><h1><samp>HI <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px"width="50px">, I am krishna from INDIA
 <hr>

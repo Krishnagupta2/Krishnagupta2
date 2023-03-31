@@ -31,7 +31,7 @@
 
 
 
-  <br>  <br>  <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnagupta2&show_icons=true&locale=en" alt="krishnagupta2" /></p>
+  <br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnagupta2&show_icons=true&locale=en" alt="krishnagupta2" /></p>
 
 
 

@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML,CSS,PYTHON,NODE JS,JAVASCRIPT,C++**
 
-- 📫 How to reach me **krishnagupta22587@gmail.com**
+- 📫 How to reach me &nbsp; &nbsp;**krishnagupta22587@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">

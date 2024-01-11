@@ -4,7 +4,7 @@
 <div align="center"><h1><samp>HI <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px"width="50px">, I am krishna from INDIA
 <hr>
 <h5 align="center">A passionate web developer</h5>
-<img align="right" width="350px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
+<img align="right" width="350px" height="300px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnagupta2&label=Profile%20views&color=0e75b6&style=flat" alt="krishnagupta2" /> </p>
 
